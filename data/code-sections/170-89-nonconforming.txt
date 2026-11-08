@@ -1,0 +1,10 @@
+section: 170-89
+title: Nonconforming buildings and uses
+url: https://ecode360.com/LI1238
+last_checked: YYYY-MM-DD
+keywords: nonconforming, grandfathered, existing, expand, expansion, rebuild, old house, variance
+---
+PASTE THE REAL TEXT HERE.
+Copy § 170-89 (Nonconforming buildings and uses) from https://ecode360.com/LI1238 by hand, paste it below this line
+(replacing these lines), then update "url" to the exact eCode360 link for this
+section and "last_checked" to today's date.

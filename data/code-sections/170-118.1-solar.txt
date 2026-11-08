@@ -1,0 +1,10 @@
+section: 170-118.1
+title: Alternative small energy systems (solar)
+url: https://ecode360.com/LI1238
+last_checked: YYYY-MM-DD
+keywords: solar, solar panels, panels, energy, wind, roof, battery, geothermal
+---
+PASTE THE REAL TEXT HERE.
+Copy § 170-118.1 (Alternative small energy systems (solar)) from https://ecode360.com/LI1238 by hand, paste it below this line
+(replacing these lines), then update "url" to the exact eCode360 link for this
+section and "last_checked" to today's date.

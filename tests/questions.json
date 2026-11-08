@@ -1,0 +1,31 @@
+{
+  "shouldCite": [
+    "Do I need a permit for a 6-foot fence in my backyard?",
+    "How tall can a fence be in my front yard?",
+    "Can I build a stone wall along my driveway?",
+    "Do I need a permit for a pool fence?",
+    "Can I put a small shed in my backyard?",
+    "How close to the property line can my shed be?",
+    "Do I need a permit to build a deck?",
+    "Can I put an in-ground pool in my backyard?",
+    "Can I put solar panels on my roof?",
+    "Can I put solar panels on the ground in my yard?",
+    "Do I need a permit for a sign on my store?",
+    "Can my business sign be lit up at night?",
+    "Can I put a banner in my shop window?",
+    "Can my cafe have outdoor seating in the summer?",
+    "How many tables can I put outside my restaurant?",
+    "Can I open a bakery on Northfield Ave?",
+    "What kinds of businesses are allowed in the BN zone?",
+    "How many parking spaces does a new store need?",
+    "Can I widen my driveway?",
+    "My house is older than the zoning rules. Can I add on to it?"
+  ],
+  "shouldNotKnow": [
+    "Can I keep chickens in my backyard?",
+    "How much does a building permit cost?",
+    "How long does it take to get a variance approved?",
+    "Can I run an Airbnb out of my house?",
+    "What day is garbage pickup on my street?"
+  ]
+}
